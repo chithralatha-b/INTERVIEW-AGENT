@@ -1,0 +1,6 @@
+{
+  "name": "IntervueAI",
+  "description": "Adaptive AI Technical Interviewer with personalized candidate evaluation and actionable feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
